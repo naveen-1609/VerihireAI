@@ -53,7 +53,7 @@ export default function Footer() {
                 <Shield className="h-5 w-5 text-accent" />
               </div>
               <span className="text-lg font-semibold text-white">
-                VeriHire <span className="text-accent">AI</span>
+                Hire <span className="text-accent">Guard</span>
               </span>
             </a>
             <p className="mt-4 max-w-xs text-sm leading-relaxed text-white/60">
@@ -96,7 +96,7 @@ export default function Footer() {
 
         <div className="mt-12 flex flex-col items-center justify-between gap-4 border-t border-white/10 pt-8 sm:flex-row">
           <p className="text-sm text-white/40">
-            &copy; {new Date().getFullYear()} VeriHire AI. All rights reserved.
+            &copy; {new Date().getFullYear()} Hire Guard. All rights reserved.
           </p>
           <div className="flex gap-6">
             <a href="#" className="text-sm text-white/40 hover:text-white/70">

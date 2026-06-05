@@ -5,9 +5,9 @@ import Footer from "@/components/landing/Footer";
 import RequestAccessForm from "@/components/landing/RequestAccessForm";
 
 export const metadata: Metadata = {
-  title: "Request Access — VeriHire AI",
+  title: "Request Access — Hire Guard",
   description:
-    "Request early access to VeriHire AI — the secure interview integrity platform for modern hiring teams.",
+    "Request early access to Hire Guard — the secure interview integrity platform for modern hiring teams.",
 };
 
 const highlights = [
@@ -48,7 +48,7 @@ export default function RequestAccessPage() {
 
               <h1 className="mt-6 text-4xl font-bold tracking-tight text-navy sm:text-5xl">
                 Get early access to{" "}
-                <span className="gradient-text">VeriHire AI</span>
+                <span className="gradient-text">Hire Guard</span>
               </h1>
 
               <p className="mt-5 max-w-xl text-lg leading-relaxed text-muted">

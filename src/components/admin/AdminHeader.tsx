@@ -9,7 +9,7 @@ export default function AdminHeader() {
             <Shield className="h-5 w-5 text-accent" />
           </div>
           <div>
-            <p className="text-sm font-semibold text-navy">VeriHire AI Admin</p>
+            <p className="text-sm font-semibold text-navy">Hire Guard Admin</p>
             <p className="text-xs text-muted">Google Sheets entry panel</p>
           </div>
         </div>

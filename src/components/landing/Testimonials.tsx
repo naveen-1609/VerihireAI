@@ -6,14 +6,14 @@ import SectionWrapper from "./SectionWrapper";
 const testimonials = [
   {
     quote:
-      "VeriHire AI gave our recruiting team the confidence to scale remote technical interviews without sacrificing integrity. The audit reports alone have transformed how we review candidates.",
+      "Hire Guard gave our recruiting team the confidence to scale remote technical interviews without sacrificing integrity. The audit reports alone have transformed how we review candidates.",
     name: "Rachel Morrison",
     title: "VP of Talent Acquisition",
     company: "Meridian Technologies",
   },
   {
     quote:
-      "As a staffing agency, verifying candidate authenticity is critical. VeriHire's identity checks and risk signals help us deliver trusted candidates to our enterprise clients.",
+      "As a staffing agency, verifying candidate authenticity is critical. Hire Guard's identity checks and risk signals help us deliver trusted candidates to our enterprise clients.",
     name: "David Okonkwo",
     title: "Director of Operations",
     company: "TalentBridge Staffing",

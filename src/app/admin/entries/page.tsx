@@ -3,7 +3,7 @@ import AdminHeader from "@/components/admin/AdminHeader";
 import SheetEntryForm from "@/components/admin/SheetEntryForm";
 
 export const metadata: Metadata = {
-  title: "Sheet Entries — VeriHire AI Admin",
+  title: "Sheet Entries — Hire Guard Admin",
   robots: {
     index: false,
     follow: false,

@@ -9,7 +9,7 @@ const inter = Inter({
 });
 
 export const metadata: Metadata = {
-  title: "VeriHire AI — Secure, Verified Interviews for Modern Hiring Teams",
+  title: "Hire Guard — Secure, Verified Interviews for Modern Hiring Teams",
   description:
     "Verify candidate identity, detect suspicious interview behavior, identify AI-generated responses, and help interviewers evaluate answers with AI-powered confidence.",
   keywords: [

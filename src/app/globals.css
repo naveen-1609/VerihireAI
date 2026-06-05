@@ -3,10 +3,10 @@
 :root {
   --background: #ffffff;
   --foreground: #1e293b;
-  --navy: #0f172a;
-  --navy-light: #1e3a5f;
-  --accent: #0ea5e9;
-  --accent-teal: #14b8a6;
+  --navy: #0f3d24;
+  --navy-light: #166534;
+  --accent: #22c55e;
+  --accent-teal: #4ade80;
   --slate: #334155;
   --muted: #64748b;
   --surface: #f8fafc;
@@ -41,17 +41,17 @@ body {
   background: linear-gradient(
     135deg,
     #f8fafc 0%,
-    #f0f9ff 40%,
-    #ecfeff 100%
+    #f0fdf4 40%,
+    #ecfdf5 100%
   );
 }
 
 .gradient-navy {
-  background: linear-gradient(135deg, #0f172a 0%, #1e3a5f 50%, #0c4a6e 100%);
+  background: linear-gradient(135deg, #0f3d24 0%, #166534 50%, #14532d 100%);
 }
 
 .gradient-text {
-  background: linear-gradient(135deg, #0ea5e9 0%, #14b8a6 100%);
+  background: linear-gradient(135deg, #22c55e 0%, #4ade80 100%);
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
   background-clip: text;

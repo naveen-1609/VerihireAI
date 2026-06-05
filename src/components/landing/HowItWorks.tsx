@@ -45,7 +45,7 @@ export default function HowItWorks() {
             A simple, secure interview workflow
           </h2>
           <p className="mt-4 text-lg text-muted">
-            From invitation to decision support — VeriHire AI integrates into
+            From invitation to decision support — Hire Guard integrates into
             your existing hiring process with minimal friction.
           </p>
         </div>

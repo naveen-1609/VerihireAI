@@ -35,7 +35,7 @@ export default function AIAssistantSection() {
                     &ldquo;How would you design a rate limiter for an API?&rdquo;
                   </p>
                 </div>
-                <div className="rounded-lg border border-accent/20 bg-sky-50 p-4">
+                <div className="rounded-lg border border-accent/20 bg-green-50 p-4">
                   <p className="text-xs font-medium text-accent">Suggested follow-up</p>
                   <p className="mt-1 text-sm text-slate">
                     Ask about token bucket vs. sliding window trade-offs and
@@ -72,7 +72,7 @@ export default function AIAssistantSection() {
               AI support for interviewers, not AI replacement
             </h2>
             <p className="mt-4 text-lg leading-relaxed text-muted">
-              VeriHire AI helps interviewers ask better questions, identify bluff
+              Hire Guard helps interviewers ask better questions, identify bluff
               or AI-assisted answers, and evaluate candidate responses more
               consistently. The platform supports human judgment instead of
               replacing it.

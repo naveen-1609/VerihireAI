@@ -2,7 +2,7 @@ import type { Metadata } from "next";
 import AdminLoginForm from "@/components/admin/AdminLoginForm";
 
 export const metadata: Metadata = {
-  title: "Admin Sign In — VeriHire AI",
+  title: "Admin Sign In — Hire Guard",
   robots: {
     index: false,
     follow: false,

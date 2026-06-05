@@ -29,7 +29,7 @@ export default function HeroMockup() {
             <span className="h-3 w-3 rounded-full bg-emerald-400" />
           </div>
           <span className="ml-2 text-xs font-medium text-muted">
-            VeriHire Interview Session
+            Hire Guard Interview Session
           </span>
           <span className="ml-auto flex items-center gap-1 rounded-full bg-emerald-50 px-2 py-0.5 text-xs font-medium text-emerald-700">
             <span className="h-1.5 w-1.5 animate-pulse rounded-full bg-emerald-500" />
@@ -91,7 +91,7 @@ export default function HeroMockup() {
               </div>
             </div>
 
-            <div className="rounded-xl border border-accent/20 bg-sky-50 p-3">
+            <div className="rounded-xl border border-accent/20 bg-green-50 p-3">
               <div className="mb-2 flex items-center gap-2">
                 <Sparkles className="h-4 w-4 text-accent" />
                 <span className="text-xs font-semibold text-navy">

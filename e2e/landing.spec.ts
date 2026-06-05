@@ -4,7 +4,7 @@ test.describe("Landing page", () => {
   test("loads the homepage with hero and primary CTA", async ({ page }) => {
     await page.goto("/");
 
-    await expect(page).toHaveTitle(/VeriHire AI/i);
+    await expect(page).toHaveTitle(/Hire Guard/i);
     await expect(
       page.getByRole("heading", {
         name: /Secure, Verified Interviews for Modern Hiring Teams/i,

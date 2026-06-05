@@ -33,7 +33,7 @@ export default defineConfig({
       ADMIN_SESSION_TOKEN: "e2e-test-session-token",
       GOOGLE_APPS_SCRIPT_URL: "https://example.com/mock-sheet-webhook",
       GOOGLE_SHEETS_SPREADSHEET_ID: "e2e-test-spreadsheet-id",
-      GOOGLE_SHEETS_TAB_NAME: "VerihireAI Early Access",
+      GOOGLE_SHEETS_TAB_NAME: "Hire Guard Early Access",
     },
   },
 });

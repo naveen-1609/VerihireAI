@@ -25,7 +25,7 @@ var HEADERS = [
 ];
 
 function doGet() {
-  return json_({ success: true, message: "VeriHire webhook is live" });
+  return json_({ success: true, message: "Hire Guard webhook is live" });
 }
 
 function doPost(e) {

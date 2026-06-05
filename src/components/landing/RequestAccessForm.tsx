@@ -99,7 +99,7 @@ export default function RequestAccessForm() {
         </div>
         <h2 className="mt-5 text-2xl font-bold text-navy">Request received</h2>
         <p className="mx-auto mt-3 max-w-md text-muted">
-          Thank you for your interest in VeriHire AI. Our team will review your
+          Thank you for your interest in Hire Guard. Our team will review your
           request and get back to you shortly.
         </p>
         <a
@@ -288,7 +288,7 @@ export default function RequestAccessForm() {
       )}
 
       <div className="rounded-xl border border-border bg-surface/70 px-4 py-3 text-sm text-muted">
-        By submitting this form, you agree that VeriHire AI may contact you about
+        By submitting this form, you agree that Hire Guard may contact you about
         early access, product updates, and onboarding.
       </div>
 

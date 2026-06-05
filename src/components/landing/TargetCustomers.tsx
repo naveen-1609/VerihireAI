@@ -28,11 +28,11 @@ export default function TargetCustomers() {
             Who It&apos;s For
           </p>
           <h2 className="mt-3 text-3xl font-bold tracking-tight text-navy sm:text-4xl">
-            Who VeriHire AI is for
+            Who Hire Guard is for
           </h2>
           <p className="mt-4 text-lg text-muted">
             Whether you&apos;re screening contractors, running campus drives, or
-            hiring senior engineers remotely — VeriHire AI adapts to your workflow.
+            hiring senior engineers remotely — Hire Guard adapts to your workflow.
           </p>
         </div>
 

@@ -68,7 +68,7 @@ export default function PrivacySection() {
             Designed for responsible and transparent interviews
           </h2>
           <p className="mt-4 text-lg text-muted">
-            VeriHire AI is built with ethics and compliance at its core. We believe
+            Hire Guard is built with ethics and compliance at its core. We believe
             interview integrity and candidate respect go hand in hand.
           </p>
         </div>

@@ -22,7 +22,7 @@ export default function Navbar() {
             <Shield className="h-5 w-5 text-accent" strokeWidth={2} />
           </div>
           <span className="text-lg font-semibold tracking-tight text-navy">
-            VeriHire <span className="text-accent">AI</span>
+            Hire <span className="text-accent">Guard</span>
           </span>
         </a>
 

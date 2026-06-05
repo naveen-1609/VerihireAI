@@ -16,7 +16,7 @@ const SHEET_HEADERS = [
 ] as const;
 
 const SHEET_TAB = (
-  process.env.GOOGLE_SHEETS_TAB_NAME || "VerihireAI Early Access"
+  process.env.GOOGLE_SHEETS_TAB_NAME || "Hire Guard Early Access"
 ).replace(/^['"]|['"]$/g, "");
 
 function rowFromPayload(data: SheetEntryPayload): string[] {

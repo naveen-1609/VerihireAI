@@ -23,10 +23,10 @@ export default function SolutionSection() {
               The Solution
             </p>
             <h2 className="mt-3 text-3xl font-bold tracking-tight text-navy sm:text-4xl">
-              VeriHire AI helps teams interview with confidence
+              Hire Guard helps teams interview with confidence
             </h2>
             <p className="mt-4 text-lg leading-relaxed text-muted">
-              VeriHire AI is a secure interview layer that supports hiring teams
+              Hire Guard is a secure interview layer that supports hiring teams
               throughout the interview lifecycle — from pre-interview verification
               to post-interview decision support.
             </p>
@@ -65,7 +65,7 @@ export default function SolutionSection() {
                   { label: "Session Integrity", value: "Clear", color: "text-emerald-600 bg-emerald-50" },
                   { label: "Risk Indicators", value: "1 flagged", color: "text-amber-600 bg-amber-50" },
                   { label: "AI Response Signals", value: "Review", color: "text-amber-600 bg-amber-50" },
-                  { label: "AI Evaluation", value: "Complete", color: "text-accent bg-sky-50" },
+                  { label: "AI Evaluation", value: "Complete", color: "text-accent bg-green-50" },
                 ].map((row) => (
                   <div
                     key={row.label}
